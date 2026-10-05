@@ -1,0 +1,5 @@
+int32[] numbers
+---
+bool[] flags
+---
+int32 fibonacci_number
